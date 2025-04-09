@@ -7,7 +7,7 @@ This project includes user registration/login, token-based authentication, and f
 
 ## 🚀 Live Demo
 
-> 🌐 [Here](https://task-management-mh6r.onrender.com/api/)
+> 🌐 [Here](https://task-management-mh6r.onrender.com/api/tasks)
 
 ---
 
